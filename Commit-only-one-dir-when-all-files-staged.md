@@ -5,4 +5,4 @@
 
 Решение:
 ---------------
-<code>git commit -m "Только указанная папка" -- my-dir<code>
+<code>git commit -m "Только указанная папка" -- my-dir</code>
