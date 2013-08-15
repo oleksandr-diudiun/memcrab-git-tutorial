@@ -12,6 +12,8 @@
 4. В папку errors ложим файлы с пояснением ошибок при работе с Git и варианты их решения.
 5. В папку settings ложим файлы с пояснением настроек при работе с Git. 
 6. В папку images ложм все картинки которые используем в описаниях решений и пояснений
+7. [Пример простой ситуации и ее оформления][example] 
 
 [syntax]: https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md  "Git MarkDown syntax"
 [howto]: http://howto.memcrab.com
+[example]: https://github.com/noon-ehos/memcrab-git-tutorial/blob/master/Commit-only-one-dir-when-all-files-staged.md "First example"
