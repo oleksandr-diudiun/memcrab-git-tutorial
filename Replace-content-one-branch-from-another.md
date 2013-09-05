@@ -6,7 +6,13 @@
 -------------
 <code>
 git checkout merged_branch
+
+
 git merge -s ours master
+
+
 git checkout master
+
+
 git merge merged_branch
 </code>
