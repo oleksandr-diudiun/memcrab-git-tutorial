@@ -4,15 +4,7 @@
 
 Решение:
 -------------
-<code>
-git checkout merged_branch
-
-
-git merge -s ours master
-
-
-git checkout master
-
-
-git merge merged_branch
-</code>
+<code>git checkout merged_branch</code>
+<code>git merge -s ours master</code>
+<code>git checkout master</code>
+<code>git merge merged_branch</code>
