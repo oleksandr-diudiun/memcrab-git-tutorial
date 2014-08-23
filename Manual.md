@@ -46,9 +46,14 @@ Revert changes (new commit)
 git revert HEAD
 
 Return to last committed state
+
 git reset --hard HEAD
+
 History
+-------------
+
 Show all commits
+
 git log
 Short Format
 git log --pretty=-short
